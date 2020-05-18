@@ -1,0 +1,20 @@
+img{
+    display:block;
+    margin:auto;
+    }
+.fondo{
+    background-color: #f5f6fb; 
+    padding: none !important;
+}
+.padre {
+    /*IMPORTANTE*/
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.input-tex{
+    border-bottom-left-radius: 10px !important;
+    border-bottom-right-radius: 10px !important;
+    border:2px solid !important;
+    border-color: transparent #aaa #aaa !important; 
+}
